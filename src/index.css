@@ -1,0 +1,12 @@
+body {
+  margin: 20px;
+}
+
+#domEl {
+  position: relative;
+  height: 230px;
+  width: 500px;
+  padding: 20px;
+  background: #fff4f4;
+  border: 1px solid #ddd;
+}
